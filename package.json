@@ -6,14 +6,14 @@
     "description": "Provides extension method to safely handle Unity objects by validating they are not null or destroyed",
     "keywords": [],
     "category": "Scripting",
-    "dependencies": { },
+    "dependencies": {},
     "author": {
-      "name": "Freakshow Studio AS",
-      "url": "https://github.com/freakshowstudio"
+        "name": "Freakshow Studio AS",
+        "url": "https://github.com/freakshowstudio"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/freakshowstudio/com.freakshowstudio.unityobjectordefault"
+        "type": "git",
+        "url": "https://github.com/freakshowstudio/com.freakshowstudio.unityobjectordefault"
     },
     "license": "MIT"
 }
