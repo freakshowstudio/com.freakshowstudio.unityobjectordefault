@@ -1,9 +1,0 @@
-{
-    "name": "UnityObjectOrDefault.Tests.Runtime",
-    "references": [
-        "UnityObjectOrDefault.Runtime"
-    ],
-    "optionalUnityReferences": [
-        "TestAssemblies"
-    ]
-}

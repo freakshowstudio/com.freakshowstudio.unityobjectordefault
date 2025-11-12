@@ -1,0 +1,9 @@
+{
+    "name": "FreakshowStudio.UnityObjectOrDefault.Tests.Runtime",
+    "references": [
+        "FreakshowStudio.UnityObjectOrDefault.Runtime"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
