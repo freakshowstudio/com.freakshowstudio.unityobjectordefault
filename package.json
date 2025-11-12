@@ -1,0 +1,19 @@
+{
+    "name": "com.freakshowstudio.unityobjectordefault",
+    "displayName": "Unity Object Or Default",
+    "version": "1.0.0",
+    "unity": "6000.3",
+    "description": "Provides extension method to safely handle Unity objects by validating they are not null or destroyed",
+    "keywords": [],
+    "category": "Scripting",
+    "dependencies": { },
+    "author": {
+      "name": "Freakshow Studio AS",
+      "url": "https://github.com/freakshowstudio"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/freakshowstudio/com.freakshowstudio.unityobjectordefault"
+    },
+    "license": "MIT"
+}
